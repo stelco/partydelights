@@ -19,3 +19,7 @@ All works as expected although the loop isnt working.
 It appears to be conflicting with the setTimeout function.
 
 See comments in script.js
+
+## Notes
+
+slide transition not added due to time restraints
