@@ -1,0 +1,23 @@
+html {
+    margin:0;
+    padding:0;
+}
+body {
+    margin:0;
+    padding:0;
+    background-color:#ccc;
+    color:#CCCCCC;
+    font-family:'Raleway', Arial, sans-serif;
+}
+
+.title {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    font-size: 1em;
+}
+
+#slide {
+    margin: 20px;
+    position: absolute;
+}
